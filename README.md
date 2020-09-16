@@ -4,6 +4,8 @@ Wheel Of Fortune
 
 Online Hosting Link: https://spinwheell.herokuapp.com/
 
+Clicking on spin area whill roate the wheel and it will stop randomly on any prize. User will get index value of their prize in the result input box.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
