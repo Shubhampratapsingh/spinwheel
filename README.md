@@ -5,7 +5,7 @@ Wheel Of Fortune
 Online Hosting Link: https://spinwheell.herokuapp.com/
 
 
-Video: https://www.loom.com/share/80f5c89ed27d4c3bb15a0603c1a89cd2
+Video: https://www.loom.com/share/d258a11649e044f98eb25b2ece913e14
 
 Clicking on spin area will rotate the wheel and it will stop randomly on any prize. User will get index value of their prize in the result input box.
 
