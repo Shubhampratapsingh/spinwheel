@@ -2,13 +2,17 @@
 Wheel Of Fortune
 
 
-Online Hosting Link: 
+Online Hosting Link: https://spinwheell.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+
+### `change directory into project-folder
+cd projectFolder(For Linux)
 
 ### `npm install
 
@@ -23,6 +27,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
+###Optional
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
